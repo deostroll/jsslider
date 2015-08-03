@@ -1,2 +1,2 @@
-# jslib-scaffold
-javascript library scaffolding...
+# jsslider
+a slider example in pure javascript
