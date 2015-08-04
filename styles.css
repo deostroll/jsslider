@@ -1,3 +1,18 @@
 #wrap {
 	width: 205px
 }
+
+.slider {
+	padding: 0;
+	border: 1px solid #e5e5e5;
+}
+
+.slider a {
+	position: relative;
+	padding: 0;
+	display: inline-block;
+}
+
+.slider a .box {
+	background-color: '#a5a5a5';
+}
