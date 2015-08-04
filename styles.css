@@ -11,8 +11,9 @@
 	position: relative;
 	padding: 0;
 	display: inline-block;
+	cursor: pointer;
 }
 
 .slider a .box {
-	background-color: '#a5a5a5';
+	background-color: #a5a5a5;
 }
